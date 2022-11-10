@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    margin-top: 15%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+
+.forms{
+    background-color: black;
+}
