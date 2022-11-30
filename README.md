@@ -8,15 +8,16 @@
 ##### 5. Have fun!
 
 ### Final Presentation 
-##### Final Presentation Video is a url within 'Final Presentation Link.txt'
+##### Final Presentation Video is a url within `Final Presentation Link.txt`
 
 ### Code Documentation 
-##### Code Documentation is called 'Code Documentation.pdf'
-
-### Project Proposal
-##### Project Proposal is called 410 Project 'Prosal.pdf'
+##### Code Documentation is called `Code Documentation.pdf`
 
 ### Progress Update
-##### Project Update is called Progress 'Update.pdf'
+##### Project Update is called `Progress Update.pdf`
+
+### Project Proposal
+##### Project Proposal is called `410 Project Prosal.pdf`
+
 
 
