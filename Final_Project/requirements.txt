@@ -1,0 +1,9 @@
+Flask==1.1.2
+LeXmo==0.1.4
+matplotlib==3.3.4
+pandas==1.2.4
+Pillow==9.3.0
+plotly==5.11.0
+pytube==12.1.0
+wordcloud==1.8.2.2
+youtube_search==2.1.2
