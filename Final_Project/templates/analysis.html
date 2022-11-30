@@ -10,10 +10,11 @@
 
     <h1> Results </h1>
                 {% for message in get_flashed_messages() %}
-                <p>{{ message }}</p>
+                <p style="font-size: 25px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">{{ message }}</p>
             {% endfor %}
         
-    <!-- <img class="wordcloud" src="/static/new_plot.png" alt="pic1"> -->
+    <img class="wordcloud" src="/static/word_cloud.png" alt="pic1"> </img>
+    <img class="graph" src="/static/other_emotions.png" alt="pic2"></img>
 
 </body>
 </html>
